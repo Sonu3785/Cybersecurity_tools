@@ -21,7 +21,7 @@ A collection of beginner-friendly Python cybersecurity tools (GUI + CLI) demonst
 ---
 
 ## 🚀 Getting Started
-
+To get started with the Cybersecurity Tools project, follow these steps
 
 ## 🔧 Requirements
 
