@@ -21,12 +21,19 @@ A collection of beginner-friendly Python cybersecurity tools (GUI + CLI) demonst
 ---
 
 ## 🚀 Getting Started
+
 To get started with the Cybersecurity Tools project, follow these steps
+
+## 📥 Clone the Repository
+
+To download this project to your local machine, use the following command:
+
 
 ## 🔧 Requirements
 
-Ensure you have **Python 3.13+** installed.  
-Then install the required libraries using:
+Make sure Python **3.13+** is installed. Then install required dependencies using:
 
 ```bash
+git clone https://github.com/Sonu3785/Cybersecurity_tools.git
+cd Cybersecurity_tools
 pip install -r requirements.txt
